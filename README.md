@@ -1,4 +1,9 @@
 ## Bienvenido a nuestro workshop
+[![Channel](https://img.shields.io/badge/channel-YouTube-red)](https://www.youtube.com/channel/UCiuZK5geN3OCGeBxuXMfHEQ)
+[![Version](https://img.shields.io/badge/Version-0.1-blue)]()
+[![System](https://img.shields.io/badge/Supported%20OS-Linux-orange)]()
+[![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://www.python.org/download/releases/3.0/)
+[![License](https://img.shields.io/badge/Working-success-brightgreen)](https://github.com/MoisesTapia/Knigth)
 
 You can use the [editor on GitHub](https://github.com/MoisesTapia/Knight-Workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
